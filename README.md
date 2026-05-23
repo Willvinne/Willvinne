@@ -11,56 +11,80 @@
 |__/     \__/|__/|__/|__/    \_/    |__/|__/  |__/|__/  |__/ \_______/
 ```
 
-Software developer focused on building practical, scalable and maintainable systems across multiple platforms.
+Software developer focused on building product-oriented, maintainable and system-driven applications.
 
 ---
 
 ## ABOUT
 
-I work on software systems with an engineering-first mindset.  
-My focus is not just writing code, but building structures that can be maintained, extended and optimized over time.
+I am a software developer with an engineering-first mindset, focused on building real products rather than isolated features.
 
-Core domains:
-- Android application development
-- Desktop applications
-- Backend systems
-- Developer tools & automation
-- Performance-oriented software
+My approach is based on understanding systems deeply, making correct technical decisions, and balancing practicality with long-term maintainability.
 
 ---
 
-## PRINCIPLES
+## CORE FOCUS
 
-- Maintainability over quick hacks
-- Simplicity over unnecessary complexity
-- Performance when it actually matters
-- System thinking instead of isolated features
-- Continuous improvement mindset
+- Android application development
+- Product-focused software systems
+- Backend integration (Firebase / Cloud Functions)
+- Developer tools and automation
+- Performance-conscious applications
+
+---
+
+## ENGINEERING PRINCIPLES
+
+- Stability first
+- Practicality second
+- Performance third
+- Complexity only when necessary
+
+I prefer understanding the reasoning behind solutions rather than blindly applying patterns or frameworks.
+
+---
+
+## WORK STYLE
+
+- Hybrid development approach (planning + iteration)
+- Think-first, implement-second workflow
+- Project-driven learning model
+- Preference for clean and understandable systems
 
 ---
 
 ## TECH STACK
 
-### Languages
-Java · Kotlin · C# · C · C++ · Python · PHP · TypeScript · JavaScript · GML
+### Primary
+Java · Python
 
-### Frontend / Mobile
-React Native · Next.js · Jetpack Compose · Android SDK
+### Secondary (familiar, not primary)
+Kotlin · C# · C++ · JavaScript · TypeScript
 
-### Backend / Data
-Firebase · Firestore · Realtime Database · Authentication  
-REST APIs · JSON · HTTP Networking
+### Basic familiarity
+PHP · GML
 
-### Tools & Environment
-Gradle · Git · GitHub  
+### Mobile & Backend
+Android SDK · Jetpack Compose · Firebase · Cloud Functions · REST APIs
+
+### Tools
+Git · GitHub · Gradle  
 Android Studio · IntelliJ IDEA · Visual Studio
 
-### Web Basics
-HTML · CSS · XML · FXML
+---
+
+## PROJECT PHILOSOPHY
+
+I build systems with a focus on:
+- real-world usability
+- maintainability over time
+- minimal but effective architecture
+- avoiding unnecessary abstraction
 
 ---
 
 ## LINKS
 
 Website: https://willvinne.com  
+GitHub: https://github.com/Willvinne  
 Email: contact@willvinne.com
