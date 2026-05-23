@@ -11,40 +11,56 @@
 |__/     \__/|__/|__/|__/    \_/    |__/|__/  |__/|__/  |__/ \_______/
 ```
 
+Software developer focused on building practical, scalable and maintainable systems across multiple platforms.
+
+---
+
 ## ABOUT
 
-```
-Software developer building systems across multiple domains, with a focus on practical engineering and maintainable architecture.
+I work on software systems with an engineering-first mindset.  
+My focus is not just writing code, but building structures that can be maintained, extended and optimized over time.
 
-Primary areas of work:
+Core domains:
 - Android application development
-- Desktop software
+- Desktop applications
 - Backend systems
-- Developer tools and automation
-- Performance-oriented applications
-```
+- Developer tools & automation
+- Performance-oriented software
+
+---
+
+## PRINCIPLES
+
+- Maintainability over quick hacks
+- Simplicity over unnecessary complexity
+- Performance when it actually matters
+- System thinking instead of isolated features
+- Continuous improvement mindset
+
+---
 
 ## TECH STACK
 
-```
-Java            Kotlin          C#
-C               C++             Python
-PHP             GML             TypeScript
+### Languages
+Java · Kotlin · C# · C · C++ · Python · PHP · TypeScript · JavaScript · GML
 
-JavaScript      React Native    Next.js
-HTML            CSS             XML
-FXML
+### Frontend / Mobile
+React Native · Next.js · Jetpack Compose · Android SDK
 
-Firebase        Android SDK     Jetpack Compose
-Firestore       Realtime DB     Authentication
-REST APIs       JSON            HTTP/Networking
-Gradle          Git             GitHub
-Android Studio  IntelliJ IDEA   Visual Studio
-```
+### Backend / Data
+Firebase · Firestore · Realtime Database · Authentication  
+REST APIs · JSON · HTTP Networking
+
+### Tools & Environment
+Gradle · Git · GitHub  
+Android Studio · IntelliJ IDEA · Visual Studio
+
+### Web Basics
+HTML · CSS · XML · FXML
+
+---
 
 ## LINKS
 
-```
-Website: https://willvinne.com
-Email: mailto:contact@willvinne.com
-```
+Website: https://willvinne.com  
+Email: contact@willvinne.com
