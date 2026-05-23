@@ -45,7 +45,6 @@ Android Studio  IntelliJ IDEA   Visual Studio
 ## LINKS
 
 ```
-[Website](https://willvinne.com)
-[Email](mailto:contact@willvinne.com)
-[GitHub](https://github.com/Willvinne)
+Website: https://willvinne.com
+Email: mailto:contact@willvinne.com
 ```
